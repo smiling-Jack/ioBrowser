@@ -1,0 +1,33 @@
+{
+  "main": "index.html",
+  "name": "ioBrowser",
+  "version": "0.1",
+  "description": "ioBrowser",
+  "keywords": [],
+  "window": {
+    "title": "ioBrowser",
+    "toolbar": false,
+    "frame": false,
+    "width": 370,
+    "height": 245,
+    "resizable": true,
+    "show": true,
+    "always-on-top": true,
+    "transparent": true
+
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "maintainers": [
+    {
+      "name": "Steffen Schorling",
+      "email": "Steffen@ccu.io",
+      "web": "http://www.scriptgui.info"
+    }
+  ],
+  "devDependencies": {
+
+  }
+}
+
